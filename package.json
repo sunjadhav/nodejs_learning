@@ -1,7 +1,6 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "dependencies": {
     "express": "^4.16.3",
@@ -13,5 +12,14 @@
     "test": "node fileserver_demo.js"
   },
   "author": "Sunil Jadhav",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunjadhav/nodejs_learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sunjadhav/nodejs_learning/issues"
+  },
+  "homepage": "https://github.com/sunjadhav/nodejs_learning#readme",
+  "description": ""
 }
