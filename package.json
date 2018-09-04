@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lower-case": "^1.1.4",
+    "underscore": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node fileserver_demo.js"
+  },
+  "author": "Sunil Jadhav",
+  "license": "ISC"
+}
